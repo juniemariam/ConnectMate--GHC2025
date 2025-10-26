@@ -42,12 +42,12 @@ Follow these steps to set up and deploy your own **Connect Mate – GHC 2025** t
 
 4. **Deploy the Web App**  
    - In the Apps Script editor, click **Deploy → New deployment → Web app**.  
-   - Under **Execute as**, choose: `User accessing the web app`  
+   - Under **Execute as**, choose: `Me`  
    - Under **Who has access**, choose: `Anyone with Google account`  
 
 5. **Authorize the Script**  
    - Click **Deploy** → Sign in to your Google account.  
-   - When prompted, select **Advanced → Go to “Connect Mate – GHC 2025” (unsafe)** → **Allow**.  
+   - When prompted, select **Advanced → Go to “Connect Mate” (unsafe)** → **Allow**.  
    *(This is normal — it just gives your script permission to write to your sheet.)*
 
 6. **Launch Your App**  
