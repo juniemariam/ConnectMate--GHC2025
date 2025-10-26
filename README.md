@@ -9,18 +9,17 @@ With just a scan, you can instantly save a contact’s LinkedIn or portfolio lin
 <img width="1173" height="914" alt="image" src="https://github.com/user-attachments/assets/30b57d27-8e0a-4d38-9f73-8756d008f33b" />
 
 
-## 🚀 Features
+## Features
 
 - 📱 **QR Code Scanner** – Scan LinkedIn or portfolio QR codes directly from your phone’s camera.  
-- 📝 **Smart Notes** – Add name, company, interest level, and follow-up notes instantly.  
+- 📝 **Quick Notes** – Add name, company, interest level, and follow-up notes instantly.  
 - ☁️ **Auto-Save to Google Sheets** – All entries are securely stored in your own Sheet copy.  
-- 🎨 **Event-Ready Design** – Responsive, mobile-first UI designed for quick use during conferences.  
 - ⚙️ **No Installation Needed** – Runs entirely on the web via Google Apps Script.  
 - 🔒 **Private & Personal** – Each user deploys their own copy, so your data stays yours.
 
-## 🧠 Tech Stack
+## Tech Stack
 
-- **Frontend:** HTML, CSS (Custom UI, Purple-Pink GHC theme)  
+- **Frontend:** HTML, CSS
 - **QR Engine:** [html5-qrcode](https://github.com/mebjas/html5-qrcode)  
 - **Backend:** Google Apps Script  
 - **Storage:** Google Sheets  
@@ -64,4 +63,35 @@ If you need a more details check out [Setup Guide](https://github.com/juniemaria
 You can now scan QR codes, capture names and company details, and all entries will automatically be stored in **your own Google Sheet**.
 
 💡 *Tip:* You can bookmark the `/exec` link on your phone’s home screen to use it quickly during GHC!
+
+
+## ⚙️ Developer Notes
+
+- The app automatically creates a `Sheet1` sheet with headers if none exists.  
+- You can customize color themes, titles, and footer inside `index.html`.  
+- To redeploy changes, go to **Deploy → Manage deployments → Edit**.
+
+
+## Credits
+
+Developed with 💜 by **Junie Mariam Varghese**  
+Inspired by real networking moments at **Grace Hopper Celebration 2025**
+
+
+
+## ⭐ Support
+
+If you found this project helpful, please **leave a ⭐ on the repository** to show your support!  
+It means a lot and helps others discover this tool. 💜
+
+
+
+## License
+
+This project is open for educational and personal use.  
+If you modify or share it, please retain credit to the original creator.  
+
+
+### ✨ Connect. Capture. Celebrate.  
+**Connect Mate – GHC 2025 | Your networking tool for Grace Hopper Celebration 2025 💜**
 
