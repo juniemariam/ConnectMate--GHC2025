@@ -6,6 +6,9 @@
 
 With just a scan, you can instantly save a contact’s LinkedIn or portfolio link, jot down key notes, and store everything neatly in your own Google Sheet — no external database, no sign-ups, and 100% yours.
 
+<img width="1173" height="914" alt="image" src="https://github.com/user-attachments/assets/30b57d27-8e0a-4d38-9f73-8756d008f33b" />
+
+
 ## 🚀 Features
 
 - 📱 **QR Code Scanner** – Scan LinkedIn or portfolio QR codes directly from your phone’s camera.  
@@ -25,7 +28,9 @@ With just a scan, you can instantly save a contact’s LinkedIn or portfolio lin
 
 ## 📋 Setup Instructions (for Attendees)
 
-Follow these steps to set up and deploy your own **Connect Mate – GHC 2025** tool:
+Follow these steps to set up and deploy your own **Connect Mate – GHC 2025** tool: 
+
+If you need a more details check out [Setup Guide](https://github.com/juniemariam/ConnectMate--GHC2025/blob/main/ConnectMate-SetupGuide.pdf)
 
 1. **Open the Main Sheet**  
    Access the main project sheet here:  
