@@ -74,8 +74,7 @@ You can now scan QR codes, capture names and company details, and all entries wi
 
 ## Credits
 
-Developed with 💜 by **Junie Mariam Varghese**  
-Inspired by real networking moments at **Grace Hopper Celebration 2025**
+Developed with 💜 by **Junie Mariam Varghese** 
 
 
 
